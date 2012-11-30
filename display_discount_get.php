@@ -79,7 +79,7 @@
           <h2>Rock On!</h2>
        </hgroup>
           <nav>
-            <a href="product_discountD7.html">Home</a>
+            <a href="product_discountD8.html">Home</a>
             <a href="email_form.html">Forms</a>
             <a href="multi_columnPD.html">Layout</a>
             <a href="table.html">Tables</a>
